@@ -14,11 +14,14 @@ This repository contains my work for **CC6.1: Start a Python EDA Project**. The 
 git add .
 git commit -m "Initialize project with .gitignore and requirements.txt"
 git push
+```
+
 
 ## Dataset
 
-**Choix :** Seaborn *Tips*  
-**Pourquoi :** Petit (~244 lignes), propre, idéal pour explorer le % de pourboire selon le jour, l’heure (Lunch/Dinner), fumeur/non-fumeur, taille du groupe, etc.  
-**Lien cliquable (dans mon repo) :** https://github.com/Aboudlal/datafun-06-eda/blob/main/tips.csv  
-**Fichier local :** `tips.csv`  
-**Colonnes :** `total_bill` (float), `tip` (float), `sex`, `smoker`, `day`, `time`, `size` (int)
+**Choice:** Seaborn *Tips*  
+**Why:** Small (~244 rows), clean, great for exploring tip % by day, time (Lunch/Dinner), smoker status, and party size.  
+**Clickable link (in my repo):** https://github.com/Aboudlal/datafun-06-eda/blob/main/tips.csv  
+**Local file:** `tips.csv`  
+**Columns:** `total_bill` (float), `tip` (float), `sex`, `smoker`, `day`, `time`, `size` (int)
+
