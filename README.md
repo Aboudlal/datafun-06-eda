@@ -1,10 +1,6 @@
-# Project 6: Exploratory Data Analysis (EDA)
-
-## Author
-Abdellah Boudlal
-
 
 ![](tips_dataset_cover.png)
+
 ## Repository
 [GitHub Repo](https://github.com/Aboudlal/datafun-06-eda)
 
